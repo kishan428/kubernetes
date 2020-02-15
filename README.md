@@ -44,7 +44,7 @@ Open .bashrc file
 Add following content into .bashrc, you can choose any arbitary name for cluster and make sure buck name matches the one you created in previous step.
 
 ```sh
-export KOPS_CLUSTER_NAME=javahome.in
+export KOPS_CLUSTER_NAME=kishan.in
 export KOPS_STATE_STORE=s3://kishan.in.k8s
 ```
 Then running command to reflect variables added to .bashrc
